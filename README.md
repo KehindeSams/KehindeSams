@@ -1,7 +1,13 @@
 ### Hi there 👋
+Samson is a creative, innovative and smart Mechatronics Engineer with a total of 3 years' experience in Managerial, Utilities and Mechatronics Engineering roles and 1 year in Telesales marketing. I am skilled in machine/facility Maintenance, Leadership, and Communication; certified in AutoCAD 2D & 3D and proficient in Automation and Instrumentation Engineering, PLC, HTML, CSS, GIT and Java-Script programming. I am dedicated and willing to utilize relevant skills, knowledge and resources to achieve set objectives and impact positively to business growth in line with organization culture.
 
-<!--
-**KehindeSams/KehindeSams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I hold a HND with Upper Credit in Electrical/Electronic Engineering from the Federal Polytechnic Offa, Kwara State and a certificate of completion in Soft Skills Training by Jobberman Nigeria where I had an in-depth study of various soft skills including Emotional Intelligence, Teamwork, Critical Thinking/Problem Solving etc. Furthermore, I am knowledgeable in the use of Microsoft Office 365 softwares, Arduino and Matlab.
+
+As an experienced Mechatronics engineer with notable records of working in diverse teams, I am skilled in building and managing teams to successfully execute projects and I work effectively in a team with little or no supervision, using the available resources efficiently to achieve organization goals.
+
+I seek opportunities in Mechatronics, Utilities, Automation, Instrumentation and Software Engineering, even in Customer Service roles in an organization that prioritize safety and quality. I am that team member that will always add value to the team and the organization as a whole. 
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
